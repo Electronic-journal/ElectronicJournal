@@ -1,1 +1,1 @@
-# ElectronicJiournal
+# ElectronicJournal
